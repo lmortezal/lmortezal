@@ -2,18 +2,6 @@
 
 ## Introduction
 I'm a Computer Science student. I love working with DevOps, Linux, and Programming languages like Go , Python. Even though I haven't worked professionally yet, I've gained valuable skills through my studies and personal projects.
-
-## Skills
-- Linux
-- Docker
-- Go
-- Python
-- Git
-- Nginx
-- HaProxy
-- Kubernetes ( k3s , miniKube )
-- Gitlab CI/CD
-
 ## About Me
 I'm passionate about learning and growing in DevOps. I enjoy solving problems and want to contribute to exciting projects. In my free time, I like exploring new technologies and contributing to open-source projects on GitHub.
 
