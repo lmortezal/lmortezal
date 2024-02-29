@@ -1,5 +1,3 @@
-# Morteza Mohammadi
-
 ## Introduction
 I'm a Computer Science student. I love working with DevOps, Linux, and Programming languages like Go , Python. Even though I haven't worked professionally yet, I've gained valuable skills through my studies and personal projects.
 ## About Me
